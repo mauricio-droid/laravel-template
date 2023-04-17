@@ -1,0 +1,6 @@
+#👨🏼‍💻 Laravel
+.env
+src/vendor
+src/public/assets/backend
+# Docker
+docker-data
